@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on ... [Underdog Devs](https://www.underdogdevs.org/)
-- ⚡ Fun fact: ...really wanted to obtain the domain name Vikings Code since my family descended from Germanic Vikings!
+- - 💬 Ask me about coding and I may never shut up. LOL
+- - 📫 How to reach me: [Resume](https://resume.creddle.io/resume/4uxc0m7zngm) or [LinkedIn](https://www.linkedin.com/in/peacefulrick/)
+- ⚡ Fun fact: ...really wanted to obtain the domain name VikingsCode.com since my family descended from Germanic Vikings!
 
 ![gif]()
