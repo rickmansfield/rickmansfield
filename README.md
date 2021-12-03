@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... [Underdog Devs](https://www.underdogdevs.org/)
 
-![gif](https://media-exp1.licdn.com/dms/image/C4D22AQExRT6Tc0YV8w/feedshare-shrink_2048_1536/0/1633512118570?e=1641427200&v=beta&t=eXGCtbp4P06rmBseIfhd-IaSY1iwdlQTdxjmMApuiE8)
+![gif](https://media-exp1.licdn.com/dms/image/C4D22AQExRT6Tc0YV8w/feedshare-shrink_800/0/1633512131491?e=1641427200&v=beta&t=NQhEUTQL7IRBzwV8FLCDrEQlmoCGnD-NLTH9jGHlMzI)
