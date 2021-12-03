@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - - 📫 How to reach me: [Resume](https://resume.creddle.io/resume/4uxc0m7zngm) or [LinkedIn](https://www.linkedin.com/in/peacefulrick/)
 - ⚡ Fun fact: ...really wanted to obtain the domain name VikingsCode.com since my family descended from Germanic Vikings!
 
-![Vikings Code]()
+![Vikings Code](Assets\img\IMG-20201031-WA0007.jpg)
