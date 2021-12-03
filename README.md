@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... [Underdog Devs](https://www.underdogdevs.org/)
 - 💬 Ask me about coding and I may never shut up. LOL
 - 📫 How to reach me: [Resume](https://resume.creddle.io/resume/4uxc0m7zngm) or [LinkedIn](https://www.linkedin.com/in/peacefulrick/)
+- 😄 [See My PORTFOLIO](https://mansfield-port-v3.netlify.app/)
 - ⚡ Fun fact: ...really wanted to obtain the domain name VikingsCode.com since my family descended from Germanic Vikings!
 
 ![Vikings Code](Assets/img/IMG-20201031-WA0007.jpg)
