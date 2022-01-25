@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ... [Underdog Devs](https://www.underdogdevs.org/)
-- 💬 Ask me about coding and I may never shut up. LOL
-- 📫 How to reach me: [Resume](https://resume.creddle.io/resume/4uxc0m7zngm) or [LinkedIn](https://www.linkedin.com/in/peacefulrick/)
+- 🔭 I’m currently working on ... [Triple Crown Products Inc](https://triplecrownproducts.com/)
+- 💬 Ask me about coding or the family/boss I work for and I may never shut up. LOL
+- - 🌱 I’m currently learning ... C#/.Net ASP/Net from a Terrific mentor Tim C and Boss Tim Q. 
+- 📫 How to reach me: [Resume](https://resume.creddle.io/resume/4uxc0m7zngm) or [LinkedIn](https://www.linkedin.com/in/peacefulrick/). But beware I Love my current family/employer and am loyal to a faul. 
 - 😄 [See My PORTFOLIO](https://mansfield-port-v3.netlify.app/)
 - ⚡ Fun fact: ...really wanted to obtain the domain name VikingsCode.com since my family descended from Germanic Vikings!
 
