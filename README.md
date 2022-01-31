@@ -30,10 +30,7 @@ Here are some ideas to get you started:
 - Agile Project Management (Sprint, Scum, Kanban, User Stories), Algorithms, Architecture, Debugging, Deployment, Technical Project Management, Vs Code & Visual Studio IDE's
 
     ![Vikings Code](Assets/img/Rick-n-Sara-Vikings2jpg.jpg)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rickmansfield" alt="rickmansfield" /></a> </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rickmansfield" alt="rickmansfield" /></a></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rickmansfield&show_icons=true&locale=en&layout=compact" alt="rickmansfield" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rickmansfield&show_icons=true&locale=en" alt="rickmansfield" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rickmansfield&" alt="rickmansfield" /></p>
