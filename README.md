@@ -37,4 +37,4 @@ update the readme using https://github.com/ryo-ma/github-profile-trophy
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rickmansfield" alt="rickmansfield" /></a></p> -->
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rickmansfield&show_icons=true&locale=en&layout=compact" alt="rickmansfield" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rickmansfield&show_icons=true&locale=en" alt="rickmansfield" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rickmansfield&" alt="rickmansfield" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rickmansfield&" alt="rickmansfield" /></p>
