@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ... [Resume](https://resume.creddle.io/resume/4uxc0m7zngm) or
 - ⚡ Fun fact: ...
+update the readme using https://github.com/ryo-ma/github-profile-trophy
 -->
 
 - 🔭 I’m currently working at ... [Triple Crown Products Inc](https://triplecrownproducts.com/)
@@ -32,7 +33,7 @@ Here are some ideas to get you started:
     ![Vikings Code](Assets/img/Rick-n-Sara-Vikings2jpg.jpg)
 ## Statistics
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" /></a></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rickmansfield&theme=onedark" /></a></p>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rickmansfield" alt="rickmansfield" /></a></p> -->
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rickmansfield&show_icons=true&locale=en&layout=compact" alt="rickmansfield" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rickmansfield&show_icons=true&locale=en" alt="rickmansfield" /></p>
