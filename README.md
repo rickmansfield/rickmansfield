@@ -30,10 +30,11 @@ update the readme using https://github.com/ryo-ma/github-profile-trophy
 ### ADDITIONAL SKILLS:
 - Agile Project Management (Sprint, Scum, Kanban, User Stories), Algorithms, Architecture, Debugging, Deployment, Technical Project Management, Vs Code & Visual Studio IDE's
 
-<!--     <p align="center"> <img src=Assets/img/Rick-n-Sara-Vikings2jpg.jpg" /></p> -->
-    <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rickmansfield&show_icons=true&locale=en" alt="Rick and Sara Mansfield" /></p>
+
 ## Statistics
+<!-- <p align="center"> <img src=Assets/img/Rick-n-Sara-Vikings2jpg.jpg" /></p> -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+<p align="center"><img src="https://1drv.ms/u/s!AvkgnNRg8JpJzccAjUg0L8rvP1HjiA" alt="Rick and Sara Mansfield" /></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rickmansfield&theme=darkhub&row=2&column=3" /></a></p>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rickmansfield" alt="rickmansfield" /></a></p> -->
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rickmansfield&show_icons=true&locale=en&layout=compact" alt="rickmansfield" /></p>
