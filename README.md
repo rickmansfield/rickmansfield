@@ -31,7 +31,7 @@ update the readme using https://github.com/ryo-ma/github-profile-trophy
 - Agile Project Management (Sprint, Scum, Kanban, User Stories), Algorithms, Architecture, Debugging, Deployment, Technical Project Management, Vs Code & Visual Studio IDE's
 
 <!--     <p align="center"> <img src=Assets/img/Rick-n-Sara-Vikings2jpg.jpg" /></p> -->
-    <p align="center"><img src="https://github.com/rickmansfield/rickmansfield/blob/main/Assets/img/Rick-n-Sara-Vikings2jpg.jpg" alt="Rick and Sara Mansfield" /></p>
+    <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rickmansfield&show_icons=true&locale=en" alt="Rick and Sara Mansfield" /></p>
 ## Statistics
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rickmansfield&theme=darkhub&row=2&column=3" /></a></p>
