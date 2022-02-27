@@ -35,6 +35,6 @@ update the readme using https://github.com/ryo-ma/github-profile-trophy
 <!-- <p align="center"> <img src=Assets/img/Rick-n-Sara-Vikings2jpg.jpg" /></p> -->
 <p align="center"><img src="https://1drv.ms/u/s!AvkgnNRg8JpJzccAjUg0L8rvP1HjiA" alt="Rick and Sara Mansfield" /></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rickmansfield&theme=darkhub&row=2&column=3" alt="Rick's GitHub Trophy Status"/></a></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rickmansfield&show_icons=true&locale=en&layout=compact" alt="rickmansfield" />TEST</p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rickmansfield&show_icons=true&locale=en&layout=compact" alt="rickmansfield most used languages" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rickmansfield&show_icons=true&locale=en" alt="rickmansfield" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rickmansfield&" alt="rickmansfield" /></p>
