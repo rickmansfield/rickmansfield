@@ -24,11 +24,11 @@ update the readme using https://github.com/ryo-ma/github-profile-trophy
 
 ## Skills:
 ### FRONTEND: 
-- React.js, Redux, Hooks, Context API, Jest, Yum, Axios, Javascript, HTML, CSS, Ant Design, RESTful API Design, JSX, C#/ASP.Net
+- React.js, Redux, Hooks, Context API, Jest, Yum, Axios, Javascript, HTML, CSS, Ant Design, RESTful API Design, JSX, C#/ASP.Net, Angular
 ### BACKEND:
 - Node.js, Express, SQL, PostgreSQL, Python, Git CLI, VS Code, Vercel, Heroku, Netlify, Postman, Microsoft SQL Server Mgmt. 
 ### ADDITIONAL SKILLS:
-- Agile Project Management (Sprint, Scum, Kanban, User Stories), Algorithms, Architecture, Debugging, Deployment, Technical Project Management, Vs Code & Visual Studio IDE's
+- Agile Project Management (Sprint, Scum, Kanban, User Stories), Algorithms, Architecture, Debugging, Deployment, Technical Project Management, Visual Studio Code & Visual Studio IDE's
 
 
 ## Statistics
