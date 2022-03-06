@@ -21,12 +21,13 @@ update the readme using https://github.com/ryo-ma/github-profile-trophy
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/peacefulrick/). But beware I Love my current family/employer and am loyal to a fault. 
 - 😄 [See My PORTFOLIO](https://mansfield-port-v3.netlify.app/)
 - ⚡ Fun fact: ...really wanted to obtain the domain name VikingsCode.com since my family descended from Germanic Vikings!
+- ⚡ Fun fact: ...The young lady below is My wife whom I respect and love. 
 
 ## Skills:
 ### FRONTEND: 
 - React.js, Redux, Hooks, Context API, Jest, Yum, Axios, Javascript, HTML, CSS, Ant Design, RESTful API Design, JSX, C#/ASP.Net, Angular
 ### BACKEND:
-- Node.js, Express, SQL, PostgreSQL, Python, Git CLI, VS Code, Vercel, Heroku, Netlify, Postman, Microsoft SQL Server Mgmt. 
+- Node.js, Express, SQL, PostgreSQL, Python, Git CLI, Vercel, Heroku, Netlify, Postman, Microsoft SQL Server Mgmt. 
 ### ADDITIONAL SKILLS:
 - Agile Project Management (Sprint, Scum, Kanban, User Stories), Algorithms, Architecture, Debugging, Deployment, Technical Project Management, Visual Studio Code & Visual Studio IDE's
 
