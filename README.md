@@ -29,7 +29,7 @@ update the readme using https://github.com/ryo-ma/github-profile-trophy
 ### BACKEND:
 - Node.js, Express, SQL, PostgreSQL, Python, Git CLI, Vercel, Heroku, Netlify, Postman, Microsoft SQL Server Mgmt. 
 ### ADDITIONAL SKILLS:
-- Agile Project Management (Sprint, Scum, Kanban, User Stories), Algorithms, Architecture, Debugging, Deployment, Technical Project Management, Visual Studio Code & Visual Studio IDE's
+- Agile Project Management (Sprint, Scum, Kanban, User Stories), Algorithms, Architecture, Debugging, Deployment, Technical Project Management, Visual Studio Code & Visual Studio IDE's. Note My Bachelor of Science in Management 4.0 Summa Cum Laude
 
 
 ## Statistics
