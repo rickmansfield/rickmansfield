@@ -11,8 +11,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ... [Resume](https://resume.creddle.io/resume/4uxc0m7zngm) or
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...two of my sons are learning to code
 update the readme using https://github.com/ryo-ma/github-profile-trophy
+
 -->
 
 - 🔭 I’m currently working at ... [Triple Crown Products Inc](https://triplecrownproducts.com/)
