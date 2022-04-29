@@ -1,5 +1,5 @@
 # About Rick Mansfield
-### Hi there 👋
+### Hi there! Welcome to my page!👋
 
 <!--
 **rickmansfield/rickmansfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
