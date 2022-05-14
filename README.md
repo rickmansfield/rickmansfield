@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ... [Resume](https://resume.creddle.io/resume/4uxc0m7zngm) or
 - ⚡ Fun fact: ...two of my sons are learning to code
+- ⚡ Fun fact: ... My wife and I removate homes for bonding, exercise, and community building. 
 update the readme using https://github.com/ryo-ma/github-profile-trophy
 
 -->
