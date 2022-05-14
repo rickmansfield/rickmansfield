@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ... [Resume](https://resume.creddle.io/resume/4uxc0m7zngm) or
-- ⚡ Fun fact: ...two of my sons are learning to code
-- ⚡ Fun fact: ... My wife and I removate homes for bonding, exercise, and community building. 
+-  
 update the readme using https://github.com/ryo-ma/github-profile-trophy
 
 -->
@@ -25,7 +24,9 @@ update the readme using https://github.com/ryo-ma/github-profile-trophy
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/peacefulrick/). But beware I Love my current family/employer and am loyal to a fault. 
 - 😄 [See My PORTFOLIO](https://mansfield-port-v3.netlify.app/)
 - ⚡ Fun fact: ...really wanted to obtain the domain name VikingsCode.com since my family descended from Germanic Vikings!
-- ⚡ Fun fact: ...The young lady below is My wife whom I respect and love. 
+- ⚡ Fun fact: ...two of my sons are learning to code
+- ⚡ Fun fact: ...The young lady in the photo is My wife whom I respect and love.
+- ⚡ Fun fact: ... My wife and I removate homes for bonding, exercise, and community building.
 
 ## Skills:
 ### FRONTEND: 
