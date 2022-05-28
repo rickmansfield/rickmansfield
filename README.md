@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ... [Resume](https://resume.creddle.io/resume/4uxc0m7zngm) or
--  
+- ⚡ Fun fact: ...We Saved for years to take three separate cruises. Due to Covid we missed them all.
 update the readme using https://github.com/ryo-ma/github-profile-trophy
 
 -->
@@ -27,7 +27,7 @@ update the readme using https://github.com/ryo-ma/github-profile-trophy
 - ⚡ Fun fact: ...two of my sons are learning to code
 - ⚡ Fun fact: ...The young lady in the photo is My wife whom I respect and love.
 - ⚡ Fun fact: ...My wife and I removate homes for bonding, exercise, and community building.
-- ⚡ Fun fact: ...We Saved for years to take three separate cruises. Due to Covid we missed them all. 
+ 
 
 ## Skills:
 ### FRONTEND: 
