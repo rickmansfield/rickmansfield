@@ -1,7 +1,7 @@
 # About Rick Mansfield
 ### Hi there! Welcome to my GitHub page!👋
 
-<p id="imageRicknSara" align="left"><img align="center" src="https://buff.ly/3voySRt" alt="Rick and Sara Mansfield" style="width:150px; height:180px"/></p>
+<p id="imageRicknSara" align="center"><img align="center" src="https://buff.ly/3voySRt" alt="Rick and Sara Mansfield" style="width:150px; height:180px"/></p>
 
 <!--
 **rickmansfield/rickmansfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
