@@ -1,5 +1,6 @@
 # About Rick Mansfield
-### Hi there! Welcome to my GitHub page!👋
+<p><h1 align="center">
+### Hi there! Welcome to my GitHub page!👋</h1></p>
 
 <p id="imageRicknSara" align="center"><img align="center" src="https://buff.ly/3voySRt" alt="Rick and Sara Mansfield" style="width:150px; height:180px"/></p>
 
