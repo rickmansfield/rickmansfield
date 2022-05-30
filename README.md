@@ -27,6 +27,7 @@ update the readme using https://github.com/ryo-ma/github-profile-trophy
 - ⚡ Fun fact: ...two of my sons are learning to code
 - ⚡ Fun fact: ...The young lady in the photo is My wife whom I respect and love.
 - ⚡ Fun fact: ...My wife and I removate homes for bonding, exercise, and community building.
+- 🤔 I have two rules in life. 1) Don't cause work or harm to others. 2) Take care of yourself.
  
 
 ## Skills:
