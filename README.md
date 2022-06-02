@@ -1,4 +1,4 @@
-<h1 align="center"># About Rick Mansfield</h1>
+<h1 align="center">About Rick Mansfield</h1>
 <p><h1 align="center">
 Hi there! Welcome to my GitHub page!👋</h1></p>
 
