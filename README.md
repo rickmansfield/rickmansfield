@@ -43,11 +43,13 @@ Here are some ideas to get you started:
 ## Statistics
 <!-- Helpful links to these stats
 https://github.com/anuraghazra/github-readme-stats
-https://github.com/ryo-ma/github-profile-trophy -->
+https://github.com/ryo-ma/github-profile-trophy 
+for colors https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md 
+-->
 <p align="center">SKYLINE STATS CLICK PIC</p><p align="center"><a href="https://skyline.github.com/rickmansfield/2022"><img align="center" src="https://bl6pap003files.storage.live.com/y4mEAL2vw_SEl4nWu-PrJWpWrtzGlZ6cmPs7wff91jqgh3IXfhphuNQ_tpnNWARAjPcdOGX9HPPyw8_x1FrV1lLF4z36VYCI42B80dAdptfnaEAzEHQXq2oyd94MBPVQGjXmvc6JMxAZGyHB8QuFj4W49RKdkJg_dp7zzpm6KGyWOV4_OvCrInwbDmH9IevE-qS?width=1623&height=753&cropmode=none" width="811" height="370" /></p></a></p>
 
 
 <p align="center"> <a href="https://github.com/rickmansfield/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rickmansfield&theme=darkhub&row=2&column=3" alt="Rick's GitHub Trophy Status"/></a></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rickmansfield&show_icons=true&locale=en&layout=compact&langs_count=10" alt="rickmansfield most used languages" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rickmansfield&show_icons=true&locale=en&theme=tokyonight" alt="Rick Mansfield's GitHub Stats" /></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rickmansfield&show_icons=true&locale=en&layout=compact&langs_count=10&theme=github_dark" alt="rickmansfield most used languages" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rickmansfield&show_icons=true&locale=en&theme=github_dark" alt="Rick Mansfield's GitHub Stats" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rickmansfield&" alt="rickmansfield" /></p>
