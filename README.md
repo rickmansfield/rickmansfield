@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...The young lady in the photo is My wife whom I respect and love.
 - ⚡ Fun fact: ...My wife and I removate homes for bonding, exercise, and community building.
 - 🤔 I have two rules in life. 1) Don't cause work or harm to others. 2) Take care of yourself.
+- ⚡ Want a website like mine
  
 
 ## Skills:
