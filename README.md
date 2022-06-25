@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ... [Resume](https://resume.creddle.io/resume/4uxc0m7zngm) or
 - ⚡ Fun fact: ...We Saved for years to take three separate cruises. Due to Covid we missed them all.
-- ⚡ Fun fact: ...We are in PUnta Cana This week
+
  
 
 -->
@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...My wife and I removate homes for bonding, exercise, and community building.
 - 🤔 I have two rules in life. 1) Don't cause work or harm to others. 2) Take care of yourself.
 - ⚡ Want a Github Page like mine https://github.com/anuraghazra/github-readme-stats
+- ⚡ Fun fact: ...We are in Punta Cana This wekk. 
  
 
 ## Skills:
