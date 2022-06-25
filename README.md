@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ... [Resume](https://resume.creddle.io/resume/4uxc0m7zngm) or
 - ⚡ Fun fact: ...We Saved for years to take three separate cruises. Due to Covid we missed them all.
+- ⚡ Fun fact: ...We are in PUnta Cana This week
  
 
 -->
