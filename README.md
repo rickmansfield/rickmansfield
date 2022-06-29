@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...My wife and I removate homes for bonding, exercise, and community building.
 - 🤔 I have two rules in life. 1) Don't cause work or harm to others. 2) Take care of yourself.
 - ⚡ Want a Github Page like mine https://github.com/anuraghazra/github-readme-stats
-- ⚡ Fun fact: ...We are in Punta Cana This wekk... day Four 
+- ⚡ Fun fact: ...We are in Punta Cana This wekk... day Four...and tan on man
 
 ## Skills:
 ### FRONTEND: 
