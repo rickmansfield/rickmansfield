@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...We Saved for years to take three separate cruises. Due to Covid we missed them all.
 - ⚡ Fun fact: ...We are in Punta Cana This wekk... day Four...and tan on man
 - ⚡ Fun fact: THIS IS A TEST
+- ⚡ Fun fact: ...two of my sons are learning to code
  
 
 -->
@@ -27,7 +28,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/peacefulrick/). But beware I Love my current family/employer and am loyal to a fault. 
 - 😄 [See My PORTFOLIO](https://mansfield-port-v3.netlify.app/)
 - ⚡ Fun fact: ...really wanted to obtain the domain name VikingsCode.com since my family descended from Germanic Vikings!
-- ⚡ Fun fact: ...two of my sons are learning to code
 - ⚡ Fun fact: ...The young lady in the photo is My wife whom I respect and love.
 - ⚡ Fun fact: ...My wife and I removate homes for bonding, exercise, and community building.
 - 🤔 I have two rules in life. 1) Don't cause work or harm to others. 2) Take care of yourself.
