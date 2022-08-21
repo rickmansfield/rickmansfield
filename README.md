@@ -2,7 +2,7 @@
 <p><h1 align="center">
 Hi! Welcome to my GitHub page!👋</h1></p>
 
-<p id="imageRicknSara" align="center"><img align="center" src="https://buff.ly/3voySRt" alt="Rick and Sara Mansfield" style="width:150px; height:180px; boarder-radius: 50%;"/></p>
+<p id="imageRicknSara" align="center"><img align="center" src="https://buff.ly/3voySRt" alt="Rick and Sara Mansfield" style="width:150px; height:180px; border-radius: 50%;"/></p>
 
 <!--
 **rickmansfield/rickmansfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
