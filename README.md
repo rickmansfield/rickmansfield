@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...My wife and I removate homes for bonding, exercise, and community building.
 - 🤔 I have two rules in life. 1) Don't cause work or harm to others. 2) Take care of yourself.
 - ⚡ "...Don't bother looking back, you're not going that way." ~ Ragnar Lothbrook
-
+- 💬 Tip... don't let Covid wreck your cruisde and send ou to an "all inclusive." They just don't compare. Wait it out.
 
 ## Skills:
 ### FRONTEND: 
