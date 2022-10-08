@@ -1,12 +1,12 @@
 <h1 align="center">About Rick Mansfield</h1>
-
 <p><h1 align="center">Hi! Welcome to my GitHub page!👋</h1></p>
 
 <p id="imageRicknSara" align="center"><img align="center" src="https://buff.ly/3voySRt" alt="Rick and Sara Mansfield" style="width:150px; height:180px;"/></p>
 
 <p><h2 align="center">Don't bother looking back, you're not going that way."</h2></p>
+<p><h2 align="center" style="font-size: 0.25em !important; font-weight: bold">~ Ragnar Lothbrook</h2></p>
 
-<p><h3 align="center">~ Ragnar Lothbrook</h3></p>
+
 </br>
 
 <!--
