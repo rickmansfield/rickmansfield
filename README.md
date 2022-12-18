@@ -32,7 +32,7 @@
 - 🌱 I’m currently learning ... C#/.Net ASP/.Net and Bootstrap v5 from [Udemy.com](https://www.udemy.com/share/101Wak3@XSIT63EkyKxkeNjn3l2OLw5hZ_p9-a0KApPVszcA88tvJMXpGCT0VnKMEkCiMnykVw==/) and terrific mentors Tim C. (manager) and Tim Q. (Boss & original author of the www.triplecrownproducts.com) 
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/peacefulrick/). But beware I Love my current family/employer and am loyal to a fault. 
 - 😄 [See My PORTFOLIO](https://mansfield-port-v3.netlify.app/)
-- ⚡ Fun fact: ...two of my sons are learning to code
+- ⚡ Fun fact: ...one of my sons is learning to code
 - ⚡ Fun fact: ...really wanted to obtain the domain name VikingsCode.com since my family descended from Germanic Vikings!
 - ⚡ Fun fact: ...The young lady in the photo is My wife whom I respect and love.
 - ⚡ Fun fact: ...My wife and I removate homes for bonding, exercise, and community building.
