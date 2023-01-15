@@ -39,7 +39,7 @@
 - 🤔 I have two rules in life. 1) Don't cause work or harm to others. 2) Take care of yourself.
 - ⚡ "...Don't bother looking back, you're not going that way." ~ Ragnar Lothbrook
 - 💬 Tip... There's no place like home. If there is, you should considrer moving. 
-- 💬 Me... Intentionalist, Incrementalist, Organizationalist, Happy wife Happy Life!
+- 💬 Me... Intentionalist, Incrementalist, Organizationalist, Happy wife Happy Life! Right?!
 
 ## Skills:
 ### FRONTEND: 
