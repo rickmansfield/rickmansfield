@@ -35,7 +35,7 @@
 - ⚡ Fun fact: ...one of my sons is learning to code
 - ⚡ Fun fact: ...really wanted to obtain the domain name VikingsCode.com since my family descended from Germanic Vikings!
 - ⚡ Fun fact: ...The young lady in the photo is My wife whom I respect and love.
-- ⚡ Fun fact: ...My wife and I removate homes for bonding, exercise, and community building.
+- ⚡ Fun fact: ...My wife and I renovate homes for bonding, exercise, and community building.
 - 🤔 I have two rules in life. 1) Don't cause work or harm to others. 2) Take care of yourself.
 - ⚡ "...Don't bother looking back, you're not going that way." ~ Ragnar Lothbrook
 - 💬 Tip... There's no place like home. If there is, you should considrer moving. 
