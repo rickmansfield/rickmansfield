@@ -28,17 +28,11 @@
 -->
 
 - 🔭 I’m currently working at ... [Triple Crown Products Inc](https://triplecrownproducts.com/)
-- 💬 Ask me about coding or the family/boss I work for and I may never shut up. LOL
 - 🌱 I’m currently learning ... C#/.Net ASP/.Net and Bootstrap v5 & Sass.scss from [Udemy.com](https://www.udemy.com/share/101Wak3@XSIT63EkyKxkeNjn3l2OLw5hZ_p9-a0KApPVszcA88tvJMXpGCT0VnKMEkCiMnykVw==/) and terrific mentors Tim C. (manager) and Tim Q. (Boss & original author of the www.triplecrownproducts.com) 
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/peacefulrick/). But beware I Love my current family/employer and am loyal to a fault. 
 - 😄 [See My PORTFOLIO](https://mansfield-port-v3.netlify.app/)
-- ⚡ Fun fact: ...one of my sons is learning to code
-- ⚡ Fun fact: ...really wanted to obtain the domain name VikingsCode.com since my family descended from Germanic Vikings!
-- ⚡ Fun fact: ...The young lady in the photo is My wife whom I respect and love.
-- ⚡ Fun fact: ...My wife and I renovate homes for bonding, exercise, and community building.
 - 🤔 I have two rules in life. 1) Don't cause work or harm to others. 2) Take care of yourself.
 - ⚡ "...Don't bother looking back, you're not going that way." ~ Ragnar Lothbrook
-- 💬 Tip... There's no place like home. If there is, you should considrer moving. 
 - 💬 Me... Intentionalist, Incrementalist, Organizationalist, Happy wife Happy Life! Right?!
 
 ## Skills:
