@@ -32,7 +32,6 @@
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/peacefulrick/). But beware I Love my current family/employer and am loyal to a fault. 
 - 😄 [See My PORTFOLIO](https://mansfield-port-v3.netlify.app/)
 - 🤔 I have two rules in life. 1) Don't cause work or harm to others. 2) Take care of yourself.
-- ⚡ "...Don't bother looking back, you're not going that way." ~ Ragnar Lothbrook
 - 💬 Me... Intentionalist, Incrementalist, Organizationalist, Happy wife Happy Life! Right?!
 
 ## Skills:
