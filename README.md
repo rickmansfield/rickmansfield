@@ -1,4 +1,4 @@
-<h1 align="center">About Rick Mansfield</h1>
+<h1 align="center">About William Mansfield</h1>
 <p><h1 align="center">Hi! Welcome to my GitHub page!👋</h1></p>
 
 <p id="imageRicknSara" align="center"><img align="center" src="https://buff.ly/3voySRt" alt="Rick and Sara Mansfield" style="width:150px; height:180px;"/></p>
