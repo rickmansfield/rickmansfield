@@ -21,7 +21,7 @@
 - 📫 How to reach me: ... [Resume](https://resume.creddle.io/resume/4uxc0m7zngm) or
 - ⚡ Fun fact: ...We Saved for years to take three separate cruises. Due to Covid we missed them all.
 - ⚡ Fun fact: ...We are in Punta Cana This wekk... day Four...and tan on man
-- ⚡ Fun fact: THIS IS A TEST
+- ⚡ Fun fact: THIS IS A TEST. Are you kidding
 
  
 
