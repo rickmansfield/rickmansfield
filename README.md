@@ -27,6 +27,7 @@
 -->
 
 - 🔭 I’m currently working at ... [Triple Crown Products Inc](https://triplecrownproducts.com/)
+- 👯 Our Team Loves C#, .Net, SQL, React.js, Bootstrap, SASS, and good old-fashioned HTML and CSS. 
 - 🌱 I’m currently learning ... C#/.Net ASP/.Net and Bootstrap v5 & Sass.scss from [Udemy.com](https://www.udemy.com/share/101Wak3@XSIT63EkyKxkeNjn3l2OLw5hZ_p9-a0KApPVszcA88tvJMXpGCT0VnKMEkCiMnykVw==/) and terrific mentors Tim C. (manager) and Tim Q. (Boss & original author of the www.triplecrownproducts.com) 
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/peacefulrick/). But beware I Love my current family/employer and am loyal to a fault. 
 - 😄 [See My PORTFOLIO](https://mansfield-port-v3.netlify.app/)
