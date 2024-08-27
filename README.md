@@ -36,7 +36,7 @@
 
 ## Skills:
 ### FRONTEND expertise: 
--  HTML, CSS, Javascript, JSX, React.js, Redux, Hooks, Context API, Node.js, Axios, RESTful API Design, JSX,
+-  HTML, CSS, Javascript, JSX, React.js, Redux, Hooks, Context API, Node.js, Axios, RESTful API Design,
 ### BACKEND experience:
 - Express, SQL, PostgreSQL, Python, Git CLI, Vercel, Heroku, Netlify, Postman, Microsoft SQL Server Mgmt. 
 ### ADDITIONAL SKILLS:
