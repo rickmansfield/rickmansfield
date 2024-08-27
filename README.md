@@ -28,8 +28,8 @@
 
 - 🔭 I’m currently looking for work
 - 👯 My strength is in JSX with emphasis on React.js, Bootstrap, SASS, and good old-fashioned HTML and CSS. 
-- 🌱 I’m currently learning ... C#/.Net ASP/.Net and Bootstrap v5 & Sass.scss from [Udemy.com](https://www.udemy.com/share/101Wak3@XSIT63EkyKxkeNjn3l2OLw5hZ_p9-a0KApPVszcA88tvJMXpGCT0VnKMEkCiMnykVw==/) and terrific mentors Tim C. (manager) and Tim Q. (Boss & original author of the www.triplecrownproducts.com) 
-- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/peacefulrick/). But beware I Love my current family/employer and am loyal to a fault. 
+- 🌱 I’m currently improving my skills in Backend development from [Udemy.com](https://www.udemy.com/share/101Wak3@XSIT63EkyKxkeNjn3l2OLw5hZ_p9-a0KApPVszcA88tvJMXpGCT0VnKMEkCiMnykVw==/) 
+- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/peacefulrick/). 
 - 😄 [See My PORTFOLIO](https://mansfield-port-v3.netlify.app/)
 - 🤔 I have two rules in life. 1) Don't cause work or harm to others. 2) Take care of yourself.
 - 💬 Me... Incrementalist, Organizationalist, Happy wife, Happy Life! Right?!
