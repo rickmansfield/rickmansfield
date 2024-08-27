@@ -36,11 +36,13 @@
 
 ## Skills:
 ### FRONTEND expertise: 
--  HTML, CSS, Javascript, C#, ASP.Net Core and ASP.Net MVC, React.js, Redux, Hooks, Context API, Node.js, Axios, RESTful API Design, JSX,
+-  HTML, CSS, Javascript, JSX, React.js, Redux, Hooks, Context API, Node.js, Axios, RESTful API Design, JSX,
 ### BACKEND experience:
 - Express, SQL, PostgreSQL, Python, Git CLI, Vercel, Heroku, Netlify, Postman, Microsoft SQL Server Mgmt. 
 ### ADDITIONAL SKILLS:
 - Agile Project Management (Sprint, Scum, Kanban, User Stories), Algorithms, Architecture, Debugging, Deployment, Technical Project Management, Visual Studio Code & Visual Studio IDE's. Note My Bachelor of Science in Management 4.0 Summa Cum Laude
+### SIDE experience: C#, ASP.Net Core and ASP.Net MVC, 
+- 
 
 
 ## Statistics
