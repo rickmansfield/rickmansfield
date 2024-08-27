@@ -26,8 +26,8 @@
 
 -->
 
-- 🔭 I’m currently working at ... [Triple Crown Products Inc](https://triplecrownproducts.com/)
-- 👯 Our Team Loves C#, .Net, SQL, React.js, sometimes Bootstrap, SASS, and good old-fashioned HTML and CSS. 
+- 🔭 I’m currently looking for work
+- 👯 My strength is in JSX with emphasis on React.js, Bootstrap, SASS, and good old-fashioned HTML and CSS. 
 - 🌱 I’m currently learning ... C#/.Net ASP/.Net and Bootstrap v5 & Sass.scss from [Udemy.com](https://www.udemy.com/share/101Wak3@XSIT63EkyKxkeNjn3l2OLw5hZ_p9-a0KApPVszcA88tvJMXpGCT0VnKMEkCiMnykVw==/) and terrific mentors Tim C. (manager) and Tim Q. (Boss & original author of the www.triplecrownproducts.com) 
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/peacefulrick/). But beware I Love my current family/employer and am loyal to a fault. 
 - 😄 [See My PORTFOLIO](https://mansfield-port-v3.netlify.app/)
@@ -35,9 +35,9 @@
 - 💬 Me... Incrementalist, Organizationalist, Happy wife, Happy Life! Right?!
 
 ## Skills:
-### FRONTEND: 
--  HTML, CSS, Javascript, C#, ASP.Net Core and ASP.Net MVC, React.js, Redux, Hooks, Context API, Node.js, Jest, Yum, Axios, Ant Design, RESTful API Design, JSX, Angular
-### BACKEND:
+### FRONTEND expertise: 
+-  HTML, CSS, Javascript, C#, ASP.Net Core and ASP.Net MVC, React.js, Redux, Hooks, Context API, Node.js, Axios, RESTful API Design, JSX,
+### BACKEND experience:
 - Express, SQL, PostgreSQL, Python, Git CLI, Vercel, Heroku, Netlify, Postman, Microsoft SQL Server Mgmt. 
 ### ADDITIONAL SKILLS:
 - Agile Project Management (Sprint, Scum, Kanban, User Stories), Algorithms, Architecture, Debugging, Deployment, Technical Project Management, Visual Studio Code & Visual Studio IDE's. Note My Bachelor of Science in Management 4.0 Summa Cum Laude
