@@ -27,7 +27,7 @@
 -->
 
 - 🔭 I’m currently looking for work
-- 👯 My strength is in JSX with emphasis on React.js, Bootstrap, SASS, and good old-fashioned HTML and CSS. 
+- 👯 My strength is in JavaScrip/JSX, emphasizing React.js, Bootstrap, SASS, and good old-fashioned HTML and CSS. 
 - 🌱 I’m currently improving my skills in Backend development from [Udemy.com](https://www.udemy.com/share/101Wak3@XSIT63EkyKxkeNjn3l2OLw5hZ_p9-a0KApPVszcA88tvJMXpGCT0VnKMEkCiMnykVw==/) 
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/peacefulrick/). 
 - 😄 [See My PORTFOLIO](https://mansfield-port-v3.netlify.app/)
