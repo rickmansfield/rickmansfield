@@ -35,12 +35,14 @@
 - 💬 Me... Incrementalist, Organizationalist, Happy wife, Happy Life! Right?!
 
 ## Skills:
-### FRONTEND expertise: 
--  HTML, CSS, Javascript, JSX, React.js, Redux, Hooks, Context API, Node.js, Axios, RESTful API Design,
+### FRONTEND Design: 
+- HTML5, CSS3, Ant Design, Bootstrap, Sass, Figma, Adobe XD, Lucid, Wire Frames, WCAG/W3C Standards
+### FRONTEND DEVELOPMENT: 
+- React.js, Next.js, Redux, JavaScript, TypeScript, Git Version Control, GitHub, RESTful API, JSX, Context API, VS Code, Axios, SPA Single Page Applications, CSR Client Side Rendering, OOP
 ### BACKEND experience:
-- Express, SQL, PostgreSQL, Python, Git CLI, Vercel, Heroku, Netlify, Postman, Microsoft SQL Server Mgmt. 
+- Express Servers, SQL, PostgreSQL, SSR (Server Side Rendering), NPM (JavaScript), Yum (Linux), Postman, CI/CD, Vercel, Heroku, Netlify, JWT & OAuth
 ### ADDITIONAL SKILLS:
-- Agile Project Management (Sprint, Scum, Kanban, User Stories), Algorithms, Architecture, Debugging, Deployment, Technical Project Management, Visual Studio Code & Visual Studio IDE's. Note My Bachelor of Science in Management 4.0 Summa Cum Laude
+- Agile Project Management, MVC, MVVM, Debugging
 ### SIDE experience: C#, ASP.Net Core and ASP.Net MVC, 
 - 
 
