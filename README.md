@@ -43,8 +43,8 @@
 - Express Servers, SQL, PostgreSQL, SSR (Server Side Rendering), NPM (JavaScript), Yum (Linux), Postman, CI/CD, Vercel, Heroku, Netlify, JWT & OAuth
 ### ADDITIONAL SKILLS:
 - Agile Project Management, MVC, MVVM, Debugging
-### SIDE experience: C#, ASP.Net Core and ASP.Net MVC, 
-- 
+### SIDE experience: 
+- C#, ASP.Net Core and ASP.Net MVC, 
 
 
 ## Statistics
